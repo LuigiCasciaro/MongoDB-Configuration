@@ -55,4 +55,4 @@ It is a variant of the previous script. It can be attacked with the following ja
 
 ## Zap Proxy
 
-To detect these vulnerabilities automatically you can use OWASP ZAP by adding the plugin that you find in the Zap_Proxy_plugin folder.
+To detect these vulnerabilities automatically you can use OWASP ZAP (https://github.com/zaproxy/zaproxy) by adding the plugin that you find in the Zap_Proxy_plugin folder.
